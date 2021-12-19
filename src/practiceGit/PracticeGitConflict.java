@@ -8,6 +8,8 @@ public class PracticeGitConflict {
 
 		System.out.println("second commit from first workspace");
 
+		
+		System.out.println("first commit");
 	}
 
 }
